@@ -2,7 +2,7 @@
 
 TAJ token contract
 
-Deployed to : 0x30c0eb61a4b30593f5f4d565d4efeda3431a5134
+Deployed to : 0xc615e01bd7f1fce35e2bad4ddd8d046f39587909
 
 Symbol      : TAJ
 
