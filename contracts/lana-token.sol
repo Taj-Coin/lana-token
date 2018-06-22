@@ -3,7 +3,7 @@ pragma solidity ^0.4.18;
 // ----------------------------------------------------------------------------
 // LANA token contract
 //
-// Deployed to : 0x5A86f0cafD4ef3ba4f0344C138afcC84bd1ED222
+// Deployed to : 0xc0fD6943086051769642563af6c002dB37a9Db23
 // Symbol      : LANA
 // Name        : LANA
 // Total supply: 7506000000
@@ -117,8 +117,8 @@ contract LANA is ERC20Interface, Owned, SafeMath {
         name = "LANA";
         decimals = 0;
         _totalSupply = 100000000000000000000000000;
-        balances[0x5A86f0cafD4ef3ba4f0344C138afcC84bd1ED222] = _totalSupply;
-        Transfer(address(0), 0x5A86f0cafD4ef3ba4f0344C138afcC84bd1ED222, _totalSupply);
+        balances[0xc0fD6943086051769642563af6c002dB37a9Db23] = _totalSupply;
+        Transfer(address(0), 0xc0fD6943086051769642563af6c002dB37a9Db23, _totalSupply);
     }
 
 
