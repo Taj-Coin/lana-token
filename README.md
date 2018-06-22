@@ -2,12 +2,12 @@
 
 LANA token contract
 
-// Deployed to : 0xc0fD6943086051769642563af6c002dB37a9Db23
+Deployed to : 0xc0fD6943086051769642563af6c002dB37a9Db23
 
-// Symbol      : LANA
+Symbol      : LANA
 
-// Name        : LANA
+Name        : LANA
 
-// Total supply: 7506000000
+Total supply: 7506000000
 
-// Decimals    : 0
+Decimals    : 0
