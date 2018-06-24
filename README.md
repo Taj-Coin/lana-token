@@ -8,7 +8,7 @@ Symbol      : TAJ
 
 Name        : TAJ
 
-Total supply: 7506000000
+Total supply: 36900000
 
 Decimals    : 0
 
