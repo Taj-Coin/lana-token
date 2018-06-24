@@ -12,4 +12,4 @@ Total supply: 7506000000
 
 Decimals    : 0
 
-Add custom erc20 token to Coinomi: https://coinomi.com/
+Add custom erc20 token to Coinomi: https://coinomi.com/ - https://coinomi.freshdesk.com/support/solutions/articles/29000009779-how-to-manually-add-an-erc20-token-
