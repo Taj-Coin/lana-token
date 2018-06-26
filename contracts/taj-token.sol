@@ -3,7 +3,7 @@ pragma solidity ^0.4.18;
 // ----------------------------------------------------------------------------
 // TAJ token contract
 //
-// Deployed to : 0xc0fD6943086051769642563af6c002dB37a9Db23
+// Deployed to : 0xc615e01bd7f1fce35e2bad4ddd8d046f39587909
 // Symbol      : TAJ
 // Name        : TAJ
 // Total supply: 36900000
